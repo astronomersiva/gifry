@@ -1,0 +1,14 @@
+{
+  "name": "gifry",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/astronomersiva/gifry",
+  "author": "Sivasubramanyam A <ssdragonar5@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "gifsicle": "^3.0.4",
+    "node-fetch": "^1.7.3",
+    "request": "^2.83.0"
+  }
+}
